@@ -5,8 +5,7 @@
 
 Here are some ideas to get you started:
 
-![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=chinksterwan)
-![Spotify Unique Tracks](https://spotify-recently-played-readme.vercel.app/api?user=chinksterwan&unique={true)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -16,4 +15,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+### Spotify Stuff
+
+![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=chinksterwan)
+![Spotify Unique Tracks](https://spotify-recently-played-readme.vercel.app/api?user=chinksterwan&unique={true)
+
+
+
 -->
